@@ -1,10 +1,10 @@
 # GIS
 This is a collection of various GIS maps created using QGIS, GeoDa, and R.
 
-## Race & Self-Reported Health
-I created these maps for a project about health disparities in black and white populations in the US.  Here is an excerpt from my paper:
+## *Race & Self-Reported Health*
+I created these maps for a project about health disparities in black and white populations in the US.  The "about" sections below are excerpts from my paper.
 
-### About the paper:
+### About the project:
 
 Racial discrimination, defined as being treated unfairly because of one’s racial characteristics (Dovidio & Gaertner, 1986), is arguably one of the largest problems facing the United States today (Johnson, 2006).  Racial discrimination has many negative effects, one of which is that it is associated with an exceedingly high number of disparities in health outcomes for people of different races (e.g., Galea, Tracy, Hoggatt, DiMaggio, & Karpati, 2011; Krieger & Sidney, 1996; Landrine & Klonoff, 2000; Massey, 2004; Mays, Cochran, & Barnes, 2007; Nelson, 2006; Williams & Jackson, 2005).
 
@@ -20,7 +20,10 @@ I also used publically available data from the U.S. Census Bureau’s American C
 
 I used publically available cartographic boundary files from the U.S. Census Bureau, as well (U.S. Census Bureau, 2013).  Specifically, I used the 2013 U.S. state-level TIGER/Line shape files for all of the spatial analyses in this paper.  I did not include Hawaii, Alaska, Puerto Rico, Guam, and the U.S. Virgin Islands in my analyses because they are, geographically, very far away from the U.S. mainland, which would affect the spatial analyses unfittingly.
 
-## US Home Values
+## *US Home Values*
+
+I created these maps for a class project that posed a hypothetical research question in which we were asked to explain variations in home values across the US (at the county level).  We were given the following variables with which to work: percent of population with a Bachelor's degree, percent of population in poverty, percent of population living in a rural area, and the percent of the population that is white.  We were asked to examine the relationships between these four variables and home values as well as explore the data for global spatial dependence and local non-stationarity.
+
 
 
 
