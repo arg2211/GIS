@@ -24,6 +24,36 @@ I used publically available cartographic boundary files from the U.S. Census Bur
 
 I created these maps for a class project that posed a hypothetical research question in which we were asked to explain variations in home values across the US (at the county level).  We were given the following variables with which to work: percent of population with a Bachelor's degree, percent of population in poverty, percent of population living in a rural area, and the percent of the population that is white.  We were asked to examine the relationships between these four variables and home values as well as explore the data for global spatial dependence and local non-stationarity.
 
+#### Excerpt References
+
+Brondolo, E., Hausmann, L. R. M., Jhalani, J., Pencille, M., Atencio-Bacayon, J., Kumar, A., Kwok, J., Ullah, J., Roth, A., Chen, D., 
+
+Crupi, R., & Schwartz, J. (2011). Dimensions of perceived racism and self-reported health: Examination of racial/ethnic differences and potential mediators. Annals of Behavioral Medicine, 42(1), 14-28. doi:10.1007/s12160-011-9265-1
+
+Dovidio, J. F. & Gaertner, S. L. (Eds.) (1986). Prejudice, Discrimination, and Racism. Orlando, FL: Academic Press.
+
+Galea, S., Tracy, M., Hoggatt, K. J., DiMaggio, C., & Karpati, A. (2011). Estimated deaths attributable to social factors in the United States. American Journal of Public Health, 101(8), 1456-1465. doi:10.2105/AJPH.2010.300086
+
+Johnson, A. G. (2006). Privilege, Power, and Difference (2nd ed.). New York, NY: McGraw-Hill.
+
+Krieger, N. & Sidney, S. (1996). Racial discrimination and blood pressure: The CARDIA study of young black and white adults. American 
+Journal of Public Health, 86(10), 1370–1378.
+
+Landrine, H. & Klonoff, E. A. (2000). Racial discrimination and cigarette smoking among Blacks: Findings from two studies. Ethnicity & Disease, 10(2), 195-202.
+
+Massey, D. S. (2004). Segregation and stratification: A biosocial perspective. Du Bois Review, 1(1), 7-25. doi:10.1017/S1742058X04040032.
+
+Mays, V. M., Cochran, S. D., & Barnes, N. W. (2007). Race, Race-Based Discrimination, and Health Outcomes Among African Americans. Annual Review of Psychology, 58, 201-225.
+
+Nelson, C. A. (2006). Of Eggshells and Thin-skulls: A consideration of racism-related mental illness impacting Black women. International Journal of Law & Psychiatry, 29(2), 112-136. doi:10.1016/j.ijlp.2004.03.012
+
+Princeton Survey Research Associates International for the Pew Social & Demographic Trends Project. (2012). Gender and Generations Survey [Data file]. Retrieved from http://www.pewsocialtrends.org/2014/01/07/gender-and-generations/
+
+U.S. Census Bureau. (2011). American Community Survey, 5-Year Estimates [Data file]. Retrieved from http://factfinder.census.gov/faces/nav/jsf/pages/guided_search.xhtml
+
+U.S. Census Bureau. (2013). Cartographic Boundary Shapefiles – States [Data file]. Retrieved from https://www.census.gov/geo/maps-data/data/cbf/cbf_state.html
+
+Williams, D. R. & Jackson, P. B. (2005). Social sources of racial disparities in health. Health Affairs, 24(2), 325-334. doi:10.1377/hlthaff.24.2.325
 
 
 
