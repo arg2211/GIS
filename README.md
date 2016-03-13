@@ -1,5 +1,5 @@
 # GIS
-This is a collection of various GIS maps created using QGIS, GeoDa, and R.
+This is a collection of various GIS (Geographical Information Systems) maps created using QGIS, GeoDa, and R.
 
 ## *Race & Self-Reported Health*
 I created these maps for a project about health disparities in black and white populations in the US.  The "about" sections below are excerpts from my paper.
